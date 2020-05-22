@@ -41,8 +41,3 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 
 
-
-
-External ip:-
-
-        a9554c833395a4aeb8775d71b62e7756-1131551671.us-west-2.elb.amazonaws.com
